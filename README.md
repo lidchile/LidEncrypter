@@ -1,6 +1,25 @@
 # LidEncrypter
-Este es nuestro algoritmo de cifrado en sus primeras versiones. Demasiado simple para ser cierto.
 
-Esto no es programación, es un texto simple que pueden ejecutar en la consola de Windows (cmd).
+Modo de ejecución: Ejecuta lid.cmd según instrucciones en el branch "master".
 
-Es el precursor de Lid Encrypter v2 y v3
+En la misma carpeta, deben coexistir 4 archivos: lid, lid-enc, lid-dec y lid-shd.
+
+
+lid.cmd
+
+Aplicación principal. No está terminada en su totalidad.
+
+
+lid-enc.cmd
+
+Aplicación de cifrado.
+
+
+lid-dec.cmd
+
+Aplicación de descifrado.
+
+
+lid-shd.cmd
+
+Protección a la secuencia generada por lid-enc.
