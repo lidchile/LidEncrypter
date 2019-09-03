@@ -175,10 +175,10 @@ cls
 echo.
 echo --------------------------------------------------------------------------
 echo DEDICATORIA: ESTE LENGUAJE FUE HECHO PARA ESCONDER LOS MENSAJES ORIGINALES
-echo              ENTRE NOSOTROS, OH HERMANA PERDIDA. LUEGO QUE DECIDISTE HACER
-echo              TU VIDA SIN MI APOYO INCONDICIONAL, QUISE CONTINUAR ESTE
-echo              PROYECTO QUE CREAMOS JUNTOS. AHORA QUE ESTA CONCLUIDA ESTA
-echo              PRIMERA VERSION, PRUEBALO Y AVISAME.
+echo              ENTRE NOSOTROS, OH PRECIOSA MIA. LUEGO QUE LA DISTANCIA NOS
+echo              SILENCIO TEMPORALMENTE, QUISE CONTINUAR ESTE PROYECTO QUE 
+echo              CREAMOS JUNTOS. AHORA QUE ESTA CONCLUIDA ESTA PRIMERA
+echo              VERSION, PRUEBALO Y ME LLAMAS.
 echo --------------------------------------------------------------------------
 echo.
 echo Origenes:
